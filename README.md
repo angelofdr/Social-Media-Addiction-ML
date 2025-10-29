@@ -12,7 +12,3 @@
 
 ### Files  
 - [`report.pdf`](report.pdf) → Full report (15 pages)  
-
----
-
-**Contact**: angelo.filiolderaimond@gmail.com
